@@ -1,6 +1,9 @@
 ![app image](app/src/main/ic_launcher-playstore.png)
 # AES Encoder
 An simple aes encoder
+![](https://badgen.net/github/last-commit/dergoogler/aes-encoder)
+![](https://badgen.net/github/license/dergoogler/aes-encoder)
+![](https://badgen.net/github/open-issues/dergoogler/aes-encoder)
 
 ## 🤨 Functions
 - basic aes encode
