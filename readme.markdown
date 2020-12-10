@@ -1,4 +1,4 @@
-![app image](https://play-lh.googleusercontent.com/hVb5mbZDDRum0rUtNYSMp_12ANIyK3D1TRJqN3QgcBbzrCF7-LVlOsWDwDgOGytZgpQ=s180-rw)
+![app image](app/src/main/ic_launcher-playstore.png)
 # AES Encoder
 An simple aes encoder
 
